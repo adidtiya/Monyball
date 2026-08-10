@@ -1,0 +1,581 @@
+,,,,,,,Playing Time,Playing Time,Playing Time,Playing Time,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,,-additional
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,-9999
+1,Rodrigo Abascal,uy URU,DF,Vit. Guimarães,31,1994,27,26,2272,25.2,1,2,3,1,0,0,6,0,0.04,0.08,0.12,0.04,0.12,Matches,088ae0d1
+2,Nelson Abbey,eng ENG,DF,Rio Ave,21,2003,26,24,2082,23.1,0,1,1,0,0,0,4,0,0.00,0.04,0.04,0.00,0.04,Matches,33f40a36
+3,Sabit Abdulai,gh GHA,MF,Alverca,26,1999,17,16,1163,12.9,0,1,1,0,0,0,5,1,0.00,0.08,0.08,0.00,0.08,Matches,9f9e1b9c
+4,Umar Abubakar,ng NGA,FW,Famalicão,19,2006,22,3,414,4.6,3,0,3,3,0,0,1,0,0.65,0.00,0.65,0.65,0.65,Matches,dd230032
+5,Adriano,br BRA,MF,Santa Clara,25,1999,18,16,1444,16.0,0,0,0,0,0,0,6,1,0.00,0.00,0.00,0.00,0.00,Matches,81053aea
+6,Adriel,br BRA,GK,AVS Futebol,24,2001,16,16,1440,16.0,0,1,1,0,0,0,2,0,0.00,0.06,0.06,0.00,0.06,Matches,11ad100a
+7,João Afonso,pt POR,DF,Tondela,35,1990,13,6,613,6.8,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,a8f07c8f
+8,João Afonso,pt POR,GK,Santa Clara,18,2007,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,4a158277
+9,Brandon Aguilera,cr CRC,MF,Rio Ave,22,2003,19,17,1370,15.2,1,0,1,1,0,0,4,0,0.07,0.00,0.07,0.07,0.07,Matches,938fa024
+10,Makan Aiko,fr FRA,MFFW,Tondela,24,2001,18,11,1060,11.8,1,2,3,1,0,1,2,0,0.08,0.17,0.25,0.08,0.25,Matches,ebb157c8
+11,Babatunde Akinsola,ng NGA,MFFW,AVS Futebol,22,2003,34,28,2436,27.1,1,4,5,1,0,0,2,0,0.04,0.15,0.18,0.04,0.18,Matches,733aab44
+12,Kerem Aktürkoğlu,tr TUR,FWMF,Benfica,26,1998,1,0,24,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,f28659fb
+13,Alan,br BRA,MFFW,Moreirense,25,2000,33,32,2690,29.9,5,5,10,4,1,2,8,0,0.17,0.17,0.33,0.13,0.30,Matches,b35de685
+14,Ángel Alarcón,es ESP,FW,Porto,21,2004,3,0,60,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,455c26a4
+15,Ángel Algobia,es ESP,MF,AVS Futebol,26,1999,21,15,1078,12.0,1,0,1,1,0,0,0,0,0.08,0.00,0.08,0.08,0.08,Matches,acc1aefa
+16,Rudi Almeida,pt POR,FW,Famalicão,20,2005,2,0,15,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,7df5fb87
+17,Pedro Amaral,pt POR,DFMF,Estoril,27,1997,27,24,1839,20.4,0,2,2,0,0,0,3,0,0.00,0.10,0.10,0.00,0.10,Matches,8dbc3f20
+18,Amorim,br BRA,MF,Alverca,20,2005,19,19,1624,18.0,2,0,2,2,0,0,3,0,0.11,0.00,0.11,0.11,0.11,Matches,87c4d798
+19,Andrew,br BRA,GK,Gil Vicente FC,24,2001,17,17,1495,16.6,0,0,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00,Matches,40406a00
+20,Andrey,br BRA,MF,Santa Clara,23,2002,2,1,145,1.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,89c28d9f
+21,Leandro Antonetti,pr PUR,FW,Estrela,22,2003,12,3,311,3.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2febb559
+22,Óscar Aranda,es ESP,MF,Famalicão,23,2002,1,0,17,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,4d3bdda7
+23,Henrique Araújo,pt POR,FW,Benfica,23,2002,5,0,23,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,353eb529
+24,Maxi Araújo,uy URU,DFMF,Sporting CP,25,2000,29,25,2212,24.6,5,4,9,5,0,0,9,1,0.20,0.16,0.37,0.20,0.37,Matches,f9ab3f4a
+25,Tomás Araújo,pt POR,DF,Benfica,23,2002,23,19,1684,18.7,1,2,3,1,0,0,3,0,0.05,0.11,0.16,0.05,0.16,Matches,0fa11d7d
+26,Telmo Arcanjo,cv CPV,MF,Vit. Guimarães,24,2001,29,12,1246,13.8,1,0,1,1,0,0,2,1,0.07,0.00,0.07,0.07,0.07,Matches,c692cef2
+27,Bright Arrey-Mbi,de GER,DF,Braga,22,2003,23,21,1829,20.3,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,1394bf42
+28,Afonso Assis,pt POR,MF,Moreirense,19,2006,18,10,885,9.8,1,1,2,1,0,0,4,0,0.10,0.10,0.20,0.10,0.20,Matches,fdf42820
+29,Gustavo Assuncao,pt POR,MF,AVS Futebol,25,2000,10,7,690,7.7,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,065c8786
+30,Nicolaos Athanasiou,gr GRE,MF,Rio Ave,24,2001,17,15,1308,14.5,0,1,1,0,0,0,1,0,0.00,0.07,0.07,0.00,0.07,Matches,e6345ae2
+31,Yarlen Augusto,br BRA,MF,Tondela,19,2006,11,5,453,5.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,eac01905
+32,João Aurélio,pt POR,DF,Nacional,36,1988,21,15,1321,14.7,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,05a275e0
+33,Fredrik Aursnes,no NOR,MF,Benfica,29,1995,28,26,2291,25.5,3,3,6,3,0,0,2,0,0.12,0.12,0.24,0.12,0.24,Matches,f0677ed7
+34,Daniel Azevedo,pt POR,GK,Casa Pia,27,1998,3,2,218,2.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,8b2cba78
+35,Ibrahima Ba,sn SEN,DF,Famalicão,20,2005,21,18,1658,18.4,1,1,2,1,0,0,4,0,0.05,0.05,0.11,0.05,0.11,Matches,bda3b9da
+36,Felix Bacher,at AUT,DF,Estoril,24,2000,34,34,3060,34.0,2,0,2,2,0,0,4,0,0.06,0.00,0.06,0.06,0.06,Matches,b2e208ba
+37,Miguel Baeza,es ESP,MF,Nacional,25,2000,14,11,803,8.9,1,0,1,1,0,0,1,0,0.11,0.00,0.11,0.11,0.11,Matches,a98f3cbf
+38,Alexander Bah,dk DEN,DF,Benfica,27,1997,9,6,472,5.2,2,0,2,2,0,0,2,0,0.38,0.00,0.38,0.38,0.38,Matches,78f21137
+39,Ney Bahia,br BRA,MF,Santa Clara,21,2004,1,1,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,75f3e793
+40,Theofanis Bakoulas,gr GRE,MF,Rio Ave,20,2005,3,2,158,1.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,11239a35
+41,Thiago Balieiro,br BRA,DF,Vit. Guimarães,22,2003,13,13,1170,13.0,1,0,1,1,0,0,5,0,0.08,0.00,0.08,0.08,0.08,Matches,2caff95c
+42,Mohamed Bamba,ci CIV,MF,Gil Vicente FC,20,2004,4,1,88,1.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,562bf675
+43,Sidi Bane,sn SEN,DF,AVS Futebol,21,2004,9,6,590,6.6,1,0,1,1,0,0,1,0,0.15,0.00,0.15,0.15,0.15,Matches,c0c51985
+44,Daniel Banjaqui,pt POR,DF,Benfica,17,2008,2,2,152,1.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,02546e9e
+45,Barbero,es ESP,FW,Arouca,26,1998,31,24,1893,21.0,7,2,9,6,1,2,5,0,0.33,0.10,0.43,0.29,0.38,Matches,981c1863
+46,Rafael Barbosa,pt POR,MF,AVS Futebol,29,1996,13,7,646,7.2,1,2,3,1,0,1,3,0,0.14,0.28,0.42,0.14,0.42,Matches,2a34574e
+47,Leandro Barreiro Martins,lu LUX,MF,Benfica,25,2000,31,18,1753,19.5,3,5,8,3,0,0,1,0,0.15,0.26,0.41,0.15,0.41,Matches,00242b75
+48,Enzo Barrenechea,ar ARG,MF,Benfica,24,2001,26,21,1794,19.9,1,0,1,1,0,0,7,0,0.05,0.00,0.05,0.05,0.05,Matches,6caffe81
+49,Steven Baseya,fr FRA,DF,Alverca,20,2005,12,5,518,5.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,a329a732
+50,Gil Bastião Dias,pt POR,MFFW,Famalicão,28,1996,33,30,2494,27.7,4,7,11,4,0,0,8,0,0.14,0.25,0.40,0.14,0.40,Matches,e61bdd69
+51,Gabriel Batista,br BRA,GK,Santa Clara,27,1998,32,32,2880,32.0,0,1,1,0,0,0,0,0,0.00,0.03,0.03,0.00,0.03,Matches,20575487
+52,Gilberto Batista,gw GNB,DF,Moreirense,21,2003,28,21,1938,21.5,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,f16755ca
+53,Ricardo Batista,pt POR,GK,Casa Pia,38,1986,4,3,316,3.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,abef8824
+54,Bebeto,br BRA,DF,Tondela,35,1990,24,22,1889,21.0,3,0,3,0,3,3,4,0,0.14,0.00,0.14,0.00,0.00,Matches,835e8327
+55,Jan Bednarek,pl POL,DF,Porto,29,1996,32,31,2678,29.8,2,0,2,2,0,0,8,0,0.07,0.00,0.07,0.07,0.07,Matches,4115ce4e
+56,Yanis Begraoui,ma MAR,FW,Estoril,24,2001,34,31,2719,30.2,20,1,21,15,5,5,1,0,0.66,0.03,0.70,0.50,0.53,Matches,5e6355f8
+57,Fahem Benaissa Yahia,fr FRA,MFDF,Casa Pia,23,2002,10,6,550,6.1,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,98e19a24
+58,Roméo Beney,ch SUI,FW,Famalicão,20,2005,14,0,207,2.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,94632f95
+59,Beni,ao ANG,MF,Vit. Guimarães,23,2002,29,27,2240,24.9,1,1,2,1,0,0,7,0,0.04,0.04,0.08,0.04,0.08,Matches,2ca7a245
+60,Sergio Bermejo,es ESP,MF,Gil Vicente FC,27,1997,16,4,401,4.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,d166c007
+61,Simão Bertelli,br BRA,GK,AVS Futebol,32,1993,12,12,1072,11.9,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,d7817a3d
+62,Diogo Bezerra,br BRA,MF,Rio Ave,23,2002,17,14,1262,14.0,1,2,3,1,0,1,3,0,0.07,0.14,0.21,0.07,0.21,Matches,7f02ba09
+63,Fabio Blanco,es ESP,MF,Vit. Guimarães,21,2004,15,3,391,4.3,0,0,0,0,0,0,3,1,0.00,0.00,0.00,0.00,0.00,Matches,f57dbaf2
+64,Jalen Blesa,es ESP,FWMF,Rio Ave,24,2001,13,12,1075,11.9,7,0,7,6,1,1,1,0,0.59,0.00,0.59,0.50,0.50,Matches,3487e1e4
+65,Salvador Blopa,pt POR,DF,Sporting CP,18,2007,3,0,42,0.5,0,1,1,0,0,0,2,0,0.00,2.14,2.14,0.00,2.14,Matches,26422a3b
+66,Paulinho Bóia,br BRA,FWMF,Nacional,27,1998,33,33,2810,31.2,4,2,6,4,0,0,6,0,0.13,0.06,0.19,0.13,0.19,Matches,bc486f0e
+67,Kévin Boma,tg TOG,DF,Estoril,22,2002,21,19,1721,19.1,1,1,2,1,0,0,5,0,0.05,0.05,0.10,0.05,0.10,Matches,49cfaf2e
+68,Pedro Bondo,ao ANG,DF,Famalicão,20,2004,17,14,1172,13.0,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches,da6bf022
+69,Kiko Bondoso,pt POR,MFFW,Moreirense,29,1995,31,25,1999,22.2,0,4,4,0,0,0,0,0,0.00,0.18,0.18,0.00,0.18,Matches,eb60757f
+70,Toni Borevkovic,hr CRO,DF,Vit. Guimarães,28,1997,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,d05eeced
+71,Jakub Brabec,cz CZE,DF,Rio Ave,32,1992,25,23,2151,23.9,1,0,1,1,0,0,4,0,0.04,0.00,0.04,0.04,0.04,Matches,341e14aa
+72,Daniel Bragança,pt POR,MF,Sporting CP,26,1999,14,5,510,5.7,6,0,6,6,0,0,1,0,1.06,0.00,1.06,1.06,1.06,Matches,0c152537
+73,Bilal Brahimi,dz ALG,FWMF,Estrela,25,2000,4,0,91,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,02bcaf8e
+74,Brenner,br BRA,FWMF,Santa Clara,23,2002,28,12,1191,13.2,0,1,1,0,0,0,2,0,0.00,0.08,0.08,0.00,0.08,Matches,19389ac5
+75,Rafael Brito,pt POR,MF,Casa Pia,23,2002,25,18,1514,16.8,2,1,3,2,0,0,5,0,0.12,0.06,0.18,0.12,0.18,Matches,447390cc
+76,Tiago Brito,pt POR,DF,Estoril,21,2004,4,0,68,0.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,72ed4239
+77,Bruma,pt POR,FWMF,Benfica,30,1994,3,0,22,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,5caa62a7
+78,Jonathan Buatu,ao ANG,DF,Gil Vicente FC,31,1993,31,31,2745,30.5,1,1,2,1,0,0,4,0,0.03,0.03,0.07,0.03,0.07,Matches,39d8474f
+79,Leonardo Buta,pt POR,DF,Rio Ave,23,2002,3,0,12,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,dee3d535
+80,Gian Cabezas,co COL,MF,Alverca,22,2003,5,0,39,0.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,bf3a0cf9
+81,Anísio Cabral,pt POR,FW,Benfica,17,2008,6,0,49,0.5,2,0,2,2,0,0,0,0,3.67,0.00,3.67,3.67,3.67,Matches,04d9d513
+82,Jovane Cabral,cv CPV,MFFW,Estrela,27,1998,27,17,1672,18.6,7,1,8,6,1,1,5,0,0.38,0.05,0.43,0.32,0.38,Matches,e34e086c
+83,Gonzalo Calçada,es ESP,MF,Estrela,24,2001,1,0,13,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,44d5b2ac
+84,Diogo Calila,mz MOZ,DFMF,Santa Clara,26,1998,23,9,1000,11.1,1,0,1,1,0,0,4,0,0.09,0.00,0.09,0.09,0.09,Matches,32044ced
+85,Oumar Camara,fr FRA,MFFW,Vit. Guimarães,18,2007,30,18,1504,16.7,5,2,7,4,1,1,2,0,0.30,0.12,0.42,0.24,0.36,Matches,f3599e70
+86,Lazar Carević,me MNE,GK,Famalicão,26,1999,34,34,3060,34.0,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,8804949c
+87,Ryan Carlos,br BRA,MF,Estrela,23,2002,4,1,154,1.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,db014654
+88,Zé Carlos,pt POR,DF,Gil Vicente FC,27,1998,32,29,2454,27.3,0,0,0,0,0,0,8,0,0.00,0.00,0.00,0.00,0.00,Matches,4e2da7f7
+89,Zé Carlos,pt POR,MF,Gil Vicente FC,23,2001,30,10,1209,13.4,0,0,0,0,0,0,7,0,0.00,0.00,0.00,0.00,0.00,Matches,8bc1f137
+90,Anthony Carter,au AUS,FW,Santa Clara,30,1994,5,1,132,1.5,0,1,1,0,0,0,1,0,0.00,0.68,0.68,0.00,0.68,Matches,bfa79ee7
+91,João Carvalho,pt POR,MFFW,Estoril,28,1997,33,32,2791,31.0,6,11,17,6,0,0,8,0,0.19,0.35,0.55,0.19,0.55,Matches,36b76751
+92,João Carvalho,pt POR,GK,Braga,21,2004,1,0,11,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,8545f78a
+93,Pedro Carvalho,pt POR,MFDF,Estoril,22,2003,26,13,1252,13.9,0,1,1,0,0,0,5,0,0.00,0.07,0.07,0.00,0.07,Matches,c59a4359
+94,Vitor Carvalho,br BRA,DF,Braga,28,1997,15,14,1056,11.7,2,1,3,2,0,0,5,0,0.17,0.09,0.26,0.17,0.26,Matches,adc77724
+95,Facundo Cáseres,ar ARG,MF,Gil Vicente FC,24,2001,29,27,2185,24.3,0,0,0,0,0,0,8,0,0.00,0.00,0.00,0.00,0.00,Matches,21be17c9
+96,Cassiano,br BRA,FW,Casa Pia,36,1989,31,23,1875,20.8,6,0,6,4,2,4,5,1,0.29,0.00,0.29,0.19,0.19,Matches,46fa8966
+97,Juan Castillo,co COL,GK,Vit. Guimarães,22,2003,15,15,1350,15.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,73f00ee2
+98,Cristian Castro,co COL,DF,AVS Futebol,24,2001,26,26,2164,24.0,0,0,0,0,0,0,6,1,0.00,0.00,0.00,0.00,0.00,Matches,a3f386fc
+99,Geny Catamo,mz MOZ,MF,Sporting CP,24,2001,29,24,1938,21.5,6,2,8,6,0,0,1,0,0.28,0.09,0.37,0.28,0.37,Matches,28cb9f21
+100,Ivan Cavaleiro,pt POR,MF,Tondela,31,1993,13,9,850,9.4,2,0,2,1,1,1,1,0,0.21,0.00,0.21,0.11,0.11,Matches,979b811d
+101,André Ceitil,pt POR,DF,Tondela,30,1995,4,0,98,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,225f3d1c
+102,Tidjany Chabrol,fr FRA,MF,Gil Vicente FC,23,2002,11,6,503,5.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,f8d7f03b
+103,Kevin Chamorro,cr CRC,GK,Rio Ave,25,2000,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,b78e7f06
+104,Charles,br BRA,GK,Vit. Guimarães,31,1994,19,19,1710,19.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,9dadc297
+105,Atanas Chernev,bg BUL,DF,Estrela,23,2002,15,12,1018,11.3,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,4928972f
+106,Chiquinho,pt POR,FWMF,Alverca,25,2000,20,18,1480,16.4,2,4,6,1,1,1,6,0,0.12,0.24,0.36,0.06,0.30,Matches,dc6c2f02
+107,Francisco Chissumba,pt POR,MF,Alverca,20,2005,19,17,1510,16.8,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,f49c41d2
+108,Mathis Clairicia,fr FRA,FW,Alverca,22,2002,9,0,127,1.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,c4650add
+109,Clayton,br BRA,FW,Rio Ave,26,1999,19,18,1595,17.7,10,4,14,8,2,3,8,1,0.56,0.23,0.79,0.45,0.68,Matches,b05870de
+110,Clebinho,br BRA,MF,Tondela,28,1997,18,15,1199,13.3,1,1,2,1,0,0,6,0,0.08,0.08,0.15,0.08,0.15,Matches,741dc08b
+111,Fábio Conceição,pt POR,DF,Estrela,24,2001,2,2,126,1.4,1,0,1,1,0,0,0,0,0.71,0.00,0.71,0.71,0.71,Matches,6fe4c987
+112,Rodrigo Conceição,pt POR,DFMF,Tondela,25,2000,20,16,1431,15.9,1,0,1,1,0,0,4,0,0.06,0.00,0.06,0.06,0.06,Matches,6fee9966
+113,Abdu Conté,pt POR,MFDF,Casa Pia,27,1998,22,17,1426,15.8,0,2,2,0,0,0,1,0,0.00,0.13,0.13,0.00,0.13,Matches,cfa49cc1
+114,Alberto costa,pt POR,DF,Porto,21,2003,29,25,2222,24.7,1,8,9,1,0,0,7,0,0.04,0.32,0.36,0.04,0.36,Matches,4d36e5ae
+115,Diogo Costa,pt POR,GK,Porto,25,1999,33,33,2906,32.3,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,93fffbcf
+116,Gonçalo Costa,pt POR,DFMF,Estoril,25,2000,16,6,566,6.3,0,1,1,0,0,0,2,0,0.00,0.16,0.16,0.00,0.16,Matches,c1edb1d4
+117,João Costa,pt POR,FW,Santa Clara,25,2000,7,0,70,0.8,0,1,1,0,0,0,0,0,0.00,1.29,1.29,0.00,1.29,Matches,1cd2ca47
+118,João Costa,pt POR,GK,Porto,29,1996,1,0,19,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,00225aae
+119,Murilo Costa,br BRA,MF,Gil Vicente FC,30,1994,32,30,2575,28.6,11,4,15,5,6,6,3,0,0.38,0.14,0.52,0.17,0.31,Matches,85733f33
+120,Yanis Da Rocha,pt POR,MF,Braga,21,2004,4,1,115,1.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1ac14a27
+121,Abdu Dafe,,,Casa Pia,,,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,baa2831c
+122,Samuel Dahl,se SWE,DF,Benfica,22,2003,33,32,2860,31.8,1,1,2,1,0,0,3,0,0.03,0.03,0.06,0.03,0.06,Matches,bbe7d20b
+123,Amadou Dante,ml MLI,DF,Arouca,24,2000,17,7,837,9.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,da7f2781
+124,Mathias De Amorim,pt POR,MF,Famalicão,20,2004,30,30,2450,27.2,4,2,6,4,0,0,8,1,0.15,0.07,0.22,0.15,0.22,Matches,3385fdf4
+125,Ignacio De Arruabarrena,uy URU,GK,Arouca,28,1997,16,16,1440,16.0,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches,4b8cb65b
+126,Zeno Debast,be BEL,DF,Sporting CP,21,2003,17,12,1182,13.1,0,2,2,0,0,0,2,0,0.00,0.15,0.15,0.00,0.15,Matches,064461b7
+127,Amar Dedić,ba BIH,DF,Benfica,22,2002,24,21,1901,21.1,1,4,5,1,0,0,5,2,0.05,0.19,0.24,0.05,0.24,Matches,bc6e544a
+128,Deivison,br BRA,DF,Nacional,19,2006,4,1,112,1.2,0,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches,26a90e40
+129,Ennio van der Gouw,nl NED,GK,Rio Ave,24,2001,10,10,900,10.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,8ac9e7e8
+130,Arjen van der Heide,nl NED,MF,Tondela,23,2001,10,2,243,2.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,c528605b
+131,Stéphane Diarra,fr FRA,FWMF,Alverca,26,1998,2,0,19,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,29939a1d
+132,Francisco Dias,pt POR,DF,Vit. Guimarães,22,2002,2,2,180,2.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2b1026cc
+133,Matheus Dias,br BRA,MFDF,Nacional,23,2002,31,30,2434,27.0,0,1,1,0,0,0,7,1,0.00,0.04,0.04,0.00,0.04,Matches,df9a23f6
+134,Ousmane Diomande,ci CIV,DF,Sporting CP,21,2003,17,15,1296,14.4,0,1,1,0,0,0,5,0,0.00,0.07,0.07,0.00,0.07,Matches,394be156
+135,Naïs Djouahra,fr FRA,MF,Arouca,25,1999,34,33,2726,30.3,6,3,9,6,0,0,2,0,0.20,0.10,0.30,0.20,0.30,Matches,3594a357
+136,Mario Dorgelès,ci CIV,MF,Braga,20,2004,20,10,996,11.1,2,1,3,2,0,0,0,0,0.18,0.09,0.27,0.18,0.27,Matches,96a24e04
+137,Gueladan Doué,ci CIV,MF,Estrela,19,2005,14,9,808,9.0,1,0,1,1,0,0,4,0,0.11,0.00,0.11,0.11,0.11,Matches,f3478207
+138,Issiar Dramé,ml MLI,DF,Estrela,26,1999,1,0,4,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,efd44b24
+139,Diego Duarte,py PAR,FWMF,AVS Futebol,23,2002,27,13,1293,14.4,3,1,4,3,0,0,0,0,0.21,0.07,0.28,0.21,0.28,Matches,1a45a38d
+140,Tiago Duarte,pt POR,FW,Santa Clara,21,2004,1,0,16,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,131e3380
+141,Edson,mz MOZ,DF,AVS Futebol,21,2003,1,1,80,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,e439d4ee
+142,Carlos Eduardo,br BRA,FW,Gil Vicente FC,22,2002,15,3,279,3.1,2,0,2,2,0,0,0,0,0.65,0.00,0.65,0.65,0.65,Matches,84be547e
+143,Khayon Edwards,eng ENG,FW,Estoril,21,2003,2,0,12,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,c25b2143
+144,Espen van Ee,nl NED,MF,Arouca,22,2003,26,22,1873,20.8,2,1,3,2,0,0,7,0,0.10,0.05,0.14,0.10,0.14,Matches,ad1a8248
+145,Demir Ege Tıknaz,tr TUR,MF,Braga,20,2004,10,5,466,5.2,0,1,1,0,0,0,2,0,0.00,0.19,0.19,0.00,0.19,Matches,65c081c1
+146,Marvin Elimbi,fr FRA,DF,Gil Vicente FC,22,2003,28,28,2430,27.0,0,0,0,0,0,0,7,0,0.00,0.00,0.00,0.00,0.00,Matches,672f3db0
+147,Simon Elisor,fr FRA,FW,Famalicão,26,1999,33,24,2040,22.7,1,2,3,1,0,0,3,0,0.04,0.09,0.13,0.04,0.13,Matches,825ed0d1
+148,Jefferson Encada,gw GNB,DFMF,Estrela,27,1998,26,17,1543,17.1,0,2,2,0,0,0,7,0,0.00,0.12,0.12,0.00,0.12,Matches,042c1e55
+149,Jordi Escobar,es ESP,FW,AVS Futebol,23,2002,5,2,153,1.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,c91d03e6
+150,Tiago Esgaio,pt POR,DF,Arouca,29,1995,29,27,2459,27.3,3,5,8,3,0,0,10,0,0.11,0.18,0.29,0.11,0.29,Matches,9c14a96b
+151,Antonio Espigare,es ESP,DF,Gil Vicente FC,20,2004,19,9,980,10.9,1,0,1,1,0,0,2,0,0.09,0.00,0.09,0.09,0.09,Matches,d97cfe6f
+152,Gonçalo Esteves,pt POR,MF,Alverca,21,2004,5,2,163,1.8,1,0,1,1,0,0,1,0,0.55,0.00,0.55,0.55,0.55,Matches,ea3b4578
+153,Luís Esteves,pt POR,MF,Gil Vicente FC,27,1998,33,33,2754,30.6,4,8,12,4,0,0,3,1,0.13,0.26,0.39,0.13,0.39,Matches,f9ea45ed
+154,Stephen Eustáquio,ca CAN,MF,Porto,28,1996,8,0,190,2.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,577efaec
+155,Souleymane Faye,sn SEN,FW,Sporting CP,22,2003,5,0,89,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,735b1c16
+156,Omar Fayed,eg EGY,DF,Arouca,22,2003,8,6,552,6.1,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,14eb33fb
+157,Eduardo Felicíssimo,pt POR,MF,Sporting CP,18,2007,1,0,9,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,c4199604
+158,Vando Félix,gw GNB,MF,Vit. Guimarães,22,2002,8,3,339,3.8,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,716e9ae4
+159,Joelson Fernandes,pt POR,MF,Gil Vicente FC,22,2003,24,11,1013,11.3,1,3,4,1,0,0,3,0,0.09,0.27,0.36,0.09,0.36,Matches,31c7bfaf
+160,Martim Fernandes,pt POR,DF,Porto,19,2006,20,12,1120,12.4,1,1,2,1,0,0,4,1,0.08,0.08,0.16,0.08,0.16,Matches,901d4aa7
+161,Roger Fernandes,pt POR,MF,Braga,19,2005,4,4,325,3.6,1,1,2,1,0,0,1,0,0.28,0.28,0.55,0.28,0.55,Matches,de8f6250
+162,Martín Fernández,uy URU,MF,Gil Vicente FC,22,2003,26,6,699,7.8,1,1,2,1,0,0,2,1,0.13,0.13,0.26,0.13,0.26,Matches,4d80e6bd
+163,Fernando,br BRA,FW,Santa Clara,20,2005,11,7,579,6.4,1,2,3,1,0,0,0,0,0.16,0.31,0.47,0.16,0.47,Matches,650ca5cd
+164,André Ferreira,pt POR,GK,Moreirense,29,1996,22,22,1980,22.0,0,1,1,0,0,0,2,0,0.00,0.05,0.05,0.00,0.05,Matches,12c6cbef
+165,Marcelo Ferreira,br BRA,DF,Moreirense,36,1989,12,11,960,10.7,1,0,1,1,0,0,5,0,0.09,0.00,0.09,0.09,0.09,Matches,15a5e48c
+166,Pedro Ferreira,pt POR,MF,Santa Clara,27,1998,31,24,1964,21.8,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,fb39d792
+167,Daniel Figueira,pt POR,GK,Gil Vicente FC,27,1998,10,9,841,9.3,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,f7c68686
+168,Figueiredo,br BRA,FWMF,Alverca,23,2001,27,24,1871,20.8,6,2,8,6,0,0,3,0,0.29,0.10,0.38,0.29,0.38,Matches,2fe3a075
+169,Mateo Flores,es ESP,MF,Arouca,21,2004,12,0,201,2.2,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,90dcf851
+170,Seko Fofana,ci CIV,MF,Porto,30,1995,12,1,285,3.2,3,0,3,3,0,0,1,0,0.95,0.00,0.95,0.95,0.95,Matches,5313ed43
+171,Tiago Fonseca Morais,pt POR,FW,Casa Pia,21,2003,19,7,675,7.5,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,a951ca82
+172,José Fontán,es ESP,DF,Arouca,25,2000,30,29,2543,28.3,2,3,5,2,0,0,11,3,0.07,0.11,0.18,0.07,0.18,Matches,1827a42d
+173,José Fonte,pt POR,DF,Casa Pia,41,1983,18,16,1438,16.0,1,0,1,1,0,0,3,0,0.06,0.00,0.06,0.06,0.06,Matches,90f87966
+174,Bernardo Fontes,br BRA,GK,Tondela,23,2002,34,34,3060,34.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,d4a97b24
+175,Lucas França,br BRA,GK,Nacional,29,1996,6,6,540,6.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,d82f7b3f
+176,Iván Fresneda,es ESP,DF,Sporting CP,20,2004,23,21,1596,17.7,1,0,1,1,0,0,6,0,0.06,0.00,0.06,0.06,0.06,Matches,29d0f2ac
+177,Victor Froholdt,dk DEN,MF,Porto,19,2006,34,32,2872,31.9,6,6,12,6,0,0,2,0,0.19,0.19,0.38,0.19,0.38,Matches,046ca6db
+178,Taichi Fukui,jp JPN,MF,Arouca,21,2004,33,29,2520,28.0,4,3,7,4,0,0,2,1,0.14,0.11,0.25,0.14,0.25,Matches,8441729d
+179,Tiago Galletto,uy URU,MFDF,AVS Futebol,23,2002,16,3,574,6.4,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,d500dac0
+180,García,br BRA,DF,Famalicão,23,2002,12,5,570,6.3,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,45d071f4
+181,Fabrício Garcia,cv CPV,FW,Estoril,24,2001,7,0,172,1.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,65ebfa2d
+182,Fabrício Garcia,cv CPV,FW,Alverca,24,2001,6,0,76,0.8,1,0,1,1,0,0,0,0,1.18,0.00,1.18,1.18,1.18,Matches,65ebfa2d
+183,Santiago García,es ESP,MF,Gil Vicente FC,23,2001,33,31,2640,29.3,6,3,9,6,0,0,5,0,0.20,0.10,0.31,0.20,0.31,Matches,b4b4d0a6
+184,André Geraldes,pt POR,DFMF,Casa Pia,34,1991,26,21,1996,22.2,0,0,0,0,0,0,9,0,0.00,0.00,0.00,0.00,0.00,Matches,35389469
+185,Ismaël Gharbi,tn TUN,MF,Braga,21,2004,1,1,68,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,5b3cfa12
+186,António Gil,pt POR,MF,Braga,17,2008,1,0,11,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,9e34a534
+187,Alan Godoy,es ESP,FW,Estrela,22,2003,6,3,299,3.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,01bbb0ad
+188,André Gomes,pt POR,GK,Alverca,20,2004,25,25,2250,25.0,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,2c41f8ee
+189,José Gomes,pt POR,DF,Nacional,29,1996,27,26,2306,25.6,1,5,6,1,0,0,3,0,0.04,0.20,0.23,0.04,0.23,Matches,daadeea6
+190,William Gomes,br BRA,FW,Porto,19,2006,28,9,1174,13.0,8,1,9,7,1,1,5,1,0.61,0.08,0.69,0.54,0.61,Matches,22675fbb
+191,Sergi Gómez,es ESP,DF,Alverca,33,1992,29,28,2482,27.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,bc6f5f06
+192,Victor Gomez,es ESP,MFDF,Braga,25,2000,32,27,2476,27.5,1,4,5,1,0,0,2,0,0.04,0.15,0.18,0.04,0.18,Matches,b7de5bad
+193,Flávio Gonçalves,pt POR,FW,Sporting CP,18,2007,3,0,17,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,798dbe58
+194,Franscisco Gonçalves,pt POR,DF,Nacional,21,2004,10,6,565,6.3,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,b66b3a11
+195,João Gonçalves,pt POR,GK,AVS Futebol,24,2000,6,6,540,6.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,8b8c0095
+196,Pedro Gonçalves,pt POR,MF,Sporting CP,27,1998,27,25,1976,22.0,13,8,21,11,2,2,5,0,0.59,0.36,0.96,0.50,0.87,Matches,c275947b
+197,Jean Gorby,fr FRA,MF,Braga,23,2002,28,19,1712,19.0,1,0,1,1,0,0,5,0,0.05,0.00,0.05,0.05,0.05,Matches,4e4b59a4
+198,João Goulart Silva,pt POR,DF,Casa Pia,25,2000,25,22,1916,21.3,1,0,1,1,0,0,4,0,0.05,0.00,0.05,0.05,0.05,Matches,7e04dd8e
+199,Tiago Gouveia,pt POR,MF,Benfica,24,2001,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,68cf59f0
+200,Jimi Gower,eng ENG,MF,Moreirense,20,2004,9,1,165,1.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,4571f93e
+201,Pablo Gozalbez,es ESP,MF,Arouca,24,2001,28,12,1067,11.9,1,2,3,1,0,0,4,0,0.08,0.17,0.25,0.08,0.25,Matches,f33b6ee6
+202,João Graça,pt POR,MF,Rio Ave,30,1995,8,0,66,0.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,6772c33e
+203,Jaume Grau,es ESP,MF,AVS Futebol,28,1997,18,16,1322,14.7,0,0,0,0,0,0,7,1,0.00,0.00,0.00,0.00,0.00,Matches,fc3d2006
+204,André Green,eng ENG,FW,AVS Futebol,27,1998,5,3,195,2.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,6e287b7a
+205,Florian Grillitsch,at AUT,MF,Braga,29,1995,20,12,1129,12.5,1,1,2,1,0,0,3,0,0.08,0.08,0.16,0.08,0.16,Matches,ffbbc83b
+206,David Grilo,pt POR,GK,Estrela,28,1996,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,dbb7ad1b
+207,Marc Gual,es ESP,FW,Rio Ave,29,1996,10,1,161,1.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,c2bdbd22
+208,Davy Gui,ci CIV,MF,Alverca,19,2006,28,2,614,6.8,1,1,2,1,0,0,3,0,0.15,0.15,0.29,0.15,0.29,Matches,49b677a6
+209,Luis Guilherme,br BRA,MF,Sporting CP,19,2006,13,7,632,7.0,1,0,1,1,0,0,0,0,0.14,0.00,0.14,0.14,0.14,Matches,b7672d43
+210,Ryan Guilherme,br BRA,MF,Rio Ave,22,2002,12,3,422,4.7,0,0,0,0,0,0,4,1,0.00,0.00,0.00,0.00,0.00,Matches,2ebfb12f
+211,Rafik Guitane,fr FRA,MFFW,Estoril,26,1999,30,21,1835,20.4,3,5,8,3,0,0,3,0,0.15,0.25,0.39,0.15,0.39,Matches,7091324a
+212,Deniz Gül,tr TUR,FW,Porto,21,2004,29,12,1175,13.1,5,1,6,4,1,1,3,0,0.38,0.08,0.46,0.31,0.38,Matches,f0fb443e
+213,Justin de Haas,nl NED,DF,Famalicão,25,2000,31,31,2790,31.0,5,0,5,4,1,1,7,0,0.16,0.00,0.16,0.13,0.13,Matches,2aa27bb3
+214,Tomás Händel,pt POR,MF,Vit. Guimarães,24,2000,3,3,270,3.0,0,1,1,0,0,0,0,0,0.00,0.33,0.33,0.00,0.33,Matches,bbfb51ed
+215,Conrad Harder,dk DEN,FW,Sporting CP,20,2005,4,0,62,0.7,1,0,1,1,0,0,0,0,1.45,0.00,1.45,1.45,1.45,Matches,675261f8
+216,Héctor,es ESP,FW,Gil Vicente FC,29,1995,9,4,352,3.9,2,1,3,2,0,0,1,0,0.51,0.26,0.77,0.51,0.77,Matches,6294bc9d
+217,Morten Hjulmand,dk DEN,MF,Sporting CP,26,1999,27,26,2323,25.8,3,4,7,3,0,0,9,0,0.12,0.15,0.27,0.12,0.27,Matches,d4456fb3
+218,Joe Hodge,ie IRL,MF,Tondela,22,2002,26,18,1418,15.8,1,1,2,1,0,1,3,0,0.06,0.06,0.13,0.06,0.13,Matches,bd8a5d95
+219,Jordan Holsgrove,sct SCO,MF,Estoril,25,1999,33,32,2830,31.4,1,7,8,1,0,0,8,0,0.03,0.22,0.25,0.03,0.25,Matches,8a6daac3
+220,Kevin Höög-Jansson,se SWE,MF,Estrela,24,2000,13,10,813,9.0,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,0d616c20
+221,Sydney van Hooijdonk,nl NED,FW,Estrela,25,2000,10,3,360,4.0,1,1,2,0,1,1,2,0,0.25,0.25,0.50,0.00,0.25,Matches,5b418e15
+222,Lukáš Horníček,cz CZE,GK,Braga,23,2002,33,33,2959,32.9,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,cc8312b4
+223,Ricardo Horta,pt POR,MFFW,Braga,30,1994,28,25,2142,23.8,14,4,18,11,3,4,5,1,0.59,0.17,0.76,0.46,0.63,Matches,6603fed7
+224,Xabier Huarte Armendáriz,es ESP,MF,Tondela,24,2001,5,1,136,1.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,e83e8928
+225,Lee Hyunju,kr KOR,MF,Arouca,22,2003,30,24,2010,22.3,7,3,10,7,0,0,9,2,0.31,0.13,0.45,0.31,0.45,Matches,786102e2
+226,Ikker,be BEL,DF,Alverca,20,2005,2,1,115,1.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,209f084d
+227,André Inácio,br BRA,FWMF,Rio Ave,23,2002,19,17,1491,16.6,7,5,12,7,0,0,3,0,0.42,0.30,0.72,0.42,0.72,Matches,cc77d69c
+228,Gonçalo Inácio,pt POR,DF,Sporting CP,23,2001,29,29,2502,27.8,2,3,5,2,0,0,4,1,0.07,0.11,0.18,0.07,0.18,Matches,33651873
+229,Fotis Ioannidis,gr GRE,FWMF,Sporting CP,25,2000,13,3,462,5.1,3,0,3,3,0,0,0,0,0.58,0.00,0.58,0.58,0.58,Matches,7fff395a
+230,Isaac,br BRA,MF,Santa Clara,21,2004,2,0,32,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,650296aa
+231,Or Israelov,il ISR,DF,Estoril,20,2004,1,0,18,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,a7db51dc
+232,Franjo Ivanović,hr CRO,FW,Benfica,21,2003,25,9,876,9.7,6,1,7,5,1,1,1,0,0.62,0.10,0.72,0.51,0.62,Matches,7e3ea311
+233,Isaac James,ng NGA,MF,Alverca,20,2004,19,15,1303,14.5,0,2,2,0,0,0,3,0,0.00,0.14,0.14,0.00,0.14,Matches,e26ef8ad
+234,Romualdas Jansonas,lt LTU,FW,Arouca,20,2005,2,0,48,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0eb64fdf
+235,Alisson Jesus,br BRA,FW,Estrela,20,2005,5,0,89,1.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,88cf187d
+236,Lucas João,ao ANG,FW,Nacional,31,1993,19,1,256,2.8,0,1,1,0,0,0,1,0,0.00,0.35,0.35,0.00,0.35,Matches,9ddd4e40
+237,Nile John,eng ENG,MF,Moreirense,22,2003,14,5,677,7.5,0,1,1,0,0,0,3,0,0.00,0.13,0.13,0.00,0.13,Matches,376d4a41
+238,Luuk de Jong,nl NED,FW,Porto,34,1990,5,2,259,2.9,1,0,1,1,0,0,1,0,0.35,0.00,0.35,0.35,0.35,Matches,abb3bb95
+239,Joel Jorquera,es ESP,MF,Moreirense,24,2000,4,0,32,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1156c1e8
+240,Antoine Joujou,fr FRA,MF,Famalicão,22,2003,23,4,584,6.5,3,1,4,3,0,0,0,0,0.46,0.15,0.62,0.46,0.62,Matches,f9124307
+241,Daniel Júnior,br BRA,MFFW,Nacional,23,2002,17,8,741,8.2,0,1,1,0,0,0,3,0,0.00,0.12,0.12,0.00,0.12,Matches,caa45045
+242,Kaique,br BRA,GK,Nacional,22,2003,28,28,2520,28.0,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,df0ed5d6
+243,Yahya Kalley,se SWE,DF,Estrela,24,2001,3,0,42,0.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,b1120985
+244,Yann Karamoh,fr FRA,FWMF,Porto,27,1998,1,0,8,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,8b66d9cc
+245,Zakaria Kassary,ma MAR,MF,Alverca,19,2006,3,0,6,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,9c607364
+246,Kauan,br BRA,DF,Alverca,20,2005,4,0,38,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,bad4a53f
+247,Khaly,ao ANG,DF,Casa Pia,21,2003,12,11,992,11.0,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches,fa0adfab
+248,Kikas,pt POR,FW,Estrela,26,1998,17,14,1204,13.4,6,1,7,6,0,1,0,0,0.45,0.07,0.52,0.45,0.52,Matches,055cb86b
+249,Francisco Kiki,pt POR,MF,Casa Pia,27,1998,1,0,5,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,7d39f126
+250,Kiko,pt POR,DFMF,Moreirense,23,2002,27,22,1843,20.5,1,0,1,1,0,0,5,0,0.05,0.00,0.05,0.05,0.05,Matches,b142c2b3
+251,Jakub Kiwior,pl POL,DF,Porto,25,2000,26,26,2215,24.6,0,1,1,0,0,0,3,0,0.00,0.04,0.04,0.00,0.04,Matches,dc3e663e
+252,Gustavo Klismahn,br BRA,MFFW,Santa Clara,25,1999,16,15,1100,12.2,1,1,2,1,0,0,2,0,0.08,0.08,0.16,0.08,0.16,Matches,0619e470
+253,Giorgi Kochorashvili,ge GEO,MF,Sporting CP,26,1999,18,5,601,6.7,0,1,1,0,0,0,0,0,0.00,0.15,0.15,0.00,0.15,Matches,3da1b6ed
+254,Kobamelo Kodisang,za RSA,MF,AVS Futebol,25,1999,4,1,116,1.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,7775516d
+255,Ghislain Konan,ci CIV,DF,Gil Vicente FC,29,1995,30,30,2658,29.5,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches,6b2c894b
+256,Bas Kuipers,nl NED,DF,Arouca,30,1994,17,16,1348,15.0,1,2,3,1,0,0,3,0,0.07,0.13,0.20,0.07,0.20,Matches,149b617e
+257,Chiheb Labidi,tn TUN,MF,Nacional,24,2001,28,18,1614,17.9,1,1,2,1,0,0,8,1,0.06,0.06,0.11,0.06,0.11,Matches,33a4d604
+258,André Lacximicant,pt POR,FW,Estoril,24,2001,22,12,1213,13.5,3,2,5,3,0,0,4,0,0.22,0.15,0.37,0.22,0.37,Matches,be9bcca7
+259,Gustaf Lagerbielke,se SWE,DF,Braga,25,2000,28,26,2391,26.6,2,0,2,2,0,0,8,1,0.08,0.00,0.08,0.08,0.08,Matches,9e39fa2d
+260,Landerson,br BRA,MFFW,Moreirense,18,2006,29,13,1297,14.4,0,2,2,0,0,0,2,0,0.00,0.14,0.14,0.00,0.14,Matches,d09a17fe
+261,Bruno Langa,mz MOZ,DFMF,Estrela,27,1997,11,11,891,9.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,72947847
+262,Larra,es ESP,MF,Casa Pia,27,1997,33,33,2843,31.6,5,4,9,5,0,0,6,0,0.16,0.13,0.28,0.16,0.28,Matches,0d690336
+263,Orest Lebedenko,ua UKR,DF,Vit. Guimarães,26,1998,14,3,447,5.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,7553b2d2
+264,Tiago Leite,pt POR,FW,Alverca,25,2000,9,0,132,1.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,5b2323c0
+265,Stefan Lekovic,rs SRB,DFMF,Estrela,21,2004,9,9,780,8.7,2,0,2,2,0,0,3,1,0.23,0.00,0.23,0.23,0.23,Matches,d633fd46
+266,Leonardo Lelo,pt POR,MFDF,Braga,25,2000,29,20,1839,20.4,0,4,4,0,0,0,2,0,0.00,0.20,0.20,0.00,0.20,Matches,b0492e27
+267,Adrian Leon Barišić,ba BIH,DF,Braga,24,2001,6,6,450,5.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,e68fbbc6
+268,Georgios Liavas,gr GRE,MF,Rio Ave,24,2001,24,6,789,8.8,0,1,1,0,0,0,2,0,0.00,0.11,0.11,0.00,0.11,Matches,f3d12a9d
+269,Bernardo Lima,pt POR,MF,Porto,17,2008,1,0,9,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,9f014183
+270,Felipe Lima,br BRA,FW,Alverca,19,2006,6,0,52,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,184d2469
+271,Ivan Lima,pt POR,FW,Benfica,20,2005,1,0,14,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,8d429bba
+272,Pedro Lima,br BRA,MF,AVS Futebol,22,2003,26,21,1888,21.0,4,2,6,3,1,1,4,0,0.19,0.10,0.29,0.14,0.24,Matches,c87e786b
+273,Sandro Lima,br BRA,FW,Alverca,34,1990,29,16,1424,15.8,5,2,7,5,0,1,2,1,0.32,0.13,0.44,0.32,0.44,Matches,6f281453
+274,Lincoln,br BRA,MFFW,Alverca,26,1998,30,29,2358,26.2,2,5,7,2,0,2,5,0,0.08,0.19,0.27,0.08,0.27,Matches,27504df8
+275,Yan Lincon,br BRA,FW,Moreirense,22,2002,21,6,739,8.2,1,1,2,1,0,0,5,0,0.12,0.12,0.24,0.12,0.24,Matches,fc045c90
+276,Jérémy Livolant,fr FRA,FWMF,Casa Pia,27,1998,33,32,2764,30.7,3,8,11,2,1,1,4,1,0.10,0.26,0.36,0.07,0.33,Matches,4f3768f1
+277,Dailon Livramento,cv CPV,FWMF,Casa Pia,24,2001,24,10,944,10.5,0,1,1,0,0,0,2,0,0.00,0.10,0.10,0.00,0.10,Matches,c115db1e
+278,Liziero,br BRA,MF,Nacional,27,1998,28,27,2328,25.9,0,4,4,0,0,0,6,0,0.00,0.15,0.15,0.00,0.15,Matches,318ecb8c
+279,Diogo Lobão,pt POR,MF,Vit. Guimarães,19,2006,22,12,1163,12.9,1,1,2,1,0,0,5,0,0.08,0.08,0.15,0.08,0.15,Matches,449e6b20
+280,Rafael Lobato,br BRA,FW,Rio Ave,19,2006,2,0,11,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,e0ea88c4
+281,Julien Lomboto,,DF,Rio Ave,23,2002,7,3,220,2.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,19966e5f
+282,Nodari Lominadze,ge GEO,MF,Estoril,23,2002,16,8,646,7.2,2,0,2,2,0,0,4,0,0.28,0.00,0.28,0.28,0.28,Matches,add4f29e
+283,Tom van de Looi,nl NED,MF,Famalicão,26,1999,32,31,2746,30.5,0,0,0,0,0,0,9,0,0.00,0.00,0.00,0.00,0.00,Matches,27b44d5d
+284,Sidny Lopes Cabral,cv CPV,MFDF,Estrela,22,2002,15,15,1320,14.7,5,3,8,2,3,3,3,0,0.34,0.20,0.55,0.14,0.34,Matches,20700569
+285,Sidny Lopes Cabral,cv CPV,MFDF,Benfica,22,2002,8,3,360,4.0,1,2,3,1,0,0,1,0,0.25,0.50,0.75,0.25,0.75,Matches,20700569
+286,Rony Lopes,pt POR,MFFW,Tondela,29,1995,16,14,1030,11.4,4,2,6,4,0,0,3,0,0.35,0.17,0.52,0.35,0.52,Matches,7c2965bb
+287,Bruno Lourenço,pt POR,MF,AVS Futebol,27,1998,7,2,235,2.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,e8dd8ac7
+288,Lucão,br BRA,GK,Gil Vicente FC,24,2001,8,8,720,8.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,ebb5a0df
+289,Florentino Luís,pt POR,MF,Benfica,25,1999,3,0,38,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,881cd6be
+290,Dodi Lukebakio,be BEL,MF,Benfica,27,1997,17,8,746,8.3,0,3,3,0,0,0,1,0,0.00,0.36,0.36,0.00,0.36,Matches,0c61c77c
+291,Luquinhas,br BRA,MFFW,Santa Clara,28,1996,9,2,214,2.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,85937928
+292,Miguel Maga,pt POR,DF,Vit. Guimarães,22,2002,22,20,1570,17.4,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches,3ea1862e
+293,Gonçalo Maia,pt POR,MF,Gil Vicente FC,19,2005,2,0,5,0.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,db85a5d0
+294,Otar Mamageishvili,ge GEO,MF,Famalicão,22,2003,8,1,126,1.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,b806bc70
+295,Gustavo Mancha,br BRA,DF,Rio Ave,21,2004,14,14,1260,14.0,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,d618c9b3
+296,Ricardo Mangas,pt POR,DF,Sporting CP,27,1998,15,11,871,9.7,2,1,3,2,0,0,3,0,0.21,0.10,0.31,0.21,0.31,Matches,eef2d8ce
+297,Elias Manoel,br BRA,FW,Santa Clara,23,2001,15,0,300,3.3,3,0,3,3,0,0,1,0,0.90,0.00,0.90,0.90,0.90,Matches,7f19cbe0
+298,Brian Mansilla,uy URU,MF,Arouca,23,2002,20,1,333,3.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,b1a0fe80
+299,Tiago Manso,pt POR,DFMF,Tondela,25,1999,28,17,1540,17.1,1,1,2,0,1,2,7,0,0.06,0.06,0.12,0.00,0.06,Matches,3a09da9a
+300,Nico Mantl,de GER,GK,Arouca,25,2000,8,8,720,8.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0d48a5bb
+301,Manuel Manu,pt POR,MF,Benfica,24,2001,9,1,126,1.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,4c2a65a8
+302,Maracás,br BRA,DF,Moreirense,31,1994,29,29,2590,28.8,4,0,4,4,0,0,11,2,0.14,0.00,0.14,0.14,0.14,Matches,276127e4
+303,Maranhão,br BRA,MFFW,Tondela,26,1999,33,30,2452,27.2,6,2,8,4,2,3,7,0,0.22,0.07,0.29,0.15,0.22,Matches,279307ac
+304,Abraham Marcus,ng NGA,MFFW,Estrela,25,2000,31,30,2561,28.5,5,5,10,5,0,0,2,1,0.18,0.18,0.35,0.18,0.35,Matches,b979fb26
+305,Alejandro Marqués,ve VEN,FW,Estoril,24,2000,26,13,1150,12.8,4,0,4,4,0,0,1,0,0.31,0.00,0.31,0.31,0.31,Matches,83bc30cc
+306,Christian Marques,ch SUI,DF,Tondela,22,2003,31,31,2714,30.2,0,0,0,0,0,0,6,0,0.00,0.00,0.00,0.00,0.00,Matches,a7cf1541
+307,João Marques,pt POR,FW,Casa Pia,23,2002,13,6,589,6.5,1,1,2,1,0,0,2,0,0.15,0.15,0.31,0.15,0.31,Matches,f302ebae
+308,Álvaro Martínez,es ESP,DF,Moreirense,23,2002,15,9,813,9.0,0,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches,5c15cdd6
+309,Gabri Martínez,es ESP,MF,Braga,22,2003,28,14,1323,14.7,1,2,3,1,0,0,4,1,0.07,0.14,0.20,0.07,0.20,Matches,0c89e00b
+310,Julián Martínez,hn HON,DF,Alverca,21,2003,11,6,668,7.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,c7e5562e
+311,Bernardo Martins,pt POR,MF,Moreirense,27,1997,14,6,612,6.8,1,1,2,1,0,0,1,0,0.15,0.15,0.29,0.15,0.29,Matches,a2b07e59
+312,Diogo Martins,pt POR,FW,Alverca,28,1996,1,0,8,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,fc0ec027
+313,Gil Martins,pt POR,MF,Gil Vicente FC,19,2006,1,0,3,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,85cb66de
+314,Nor Maviram,ng NGA,DFMF,Tondela,24,2001,20,17,1456,16.2,2,2,4,2,0,0,4,0,0.12,0.12,0.25,0.12,0.25,Matches,3223d2ec
+315,Fally Mayulu,fr FRA,FW,Arouca,23,2002,3,0,10,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,c7ad19f8
+316,Benjamin Mbunga-Kimpioka,se SWE,FW,Tondela,25,2000,10,5,529,5.9,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,6a3579d9
+317,Brayan Medina,co COL,DF,Tondela,23,2002,25,25,2195,24.4,0,1,1,0,0,0,10,2,0.00,0.04,0.04,0.00,0.04,Matches,6e15c550
+318,Tobías Medina,ar ARG,MF,Rio Ave,21,2004,1,0,12,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,a2660293
+319,Jorge Meireles,pt POR,MFFW,Estrela,21,2004,22,7,752,8.4,0,2,2,0,0,0,1,0,0.00,0.24,0.24,0.00,0.24,Matches,1b8314b8
+320,Claudio Mendes,gw GNB,FW,Casa Pia,24,2000,13,2,287,3.2,1,0,1,1,0,0,1,1,0.31,0.00,0.31,0.31,0.31,Matches,c47fe6cb
+321,Darlan Mendes,br BRA,MF,Santa Clara,27,1998,7,0,93,1.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,a86f0d7b
+322,João Mendes,pt POR,DFMF,Vit. Guimarães,25,2000,29,29,2432,27.0,1,1,2,0,1,1,7,0,0.04,0.04,0.07,0.00,0.04,Matches,98e292bb
+323,Matheus Mendes,br BRA,GK,Alverca,26,1999,9,9,810,9.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,d0d01f62
+324,Tomás Mendes,es ESP,MF,Alverca,20,2004,5,3,311,3.5,0,1,1,0,0,0,1,0,0.00,0.29,0.29,0.00,0.29,Matches,45f771db
+325,Gustavo Mendonça,pt POR,MFDF,AVS Futebol,22,2003,21,16,1396,15.5,0,0,0,0,0,0,6,0,0.00,0.00,0.00,0.00,0.00,Matches,ce1ef31c
+326,Bastien Meupiyou,fr FRA,DF,Alverca,19,2006,30,30,2612,29.0,0,0,0,0,0,0,6,1,0.00,0.00,0.00,0.00,0.00,Matches,dcd94cdb
+327,Michel,br BRA,DF,Moreirense,22,2003,4,3,300,3.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,22018f21
+328,Mika,pt POR,GK,Moreirense,34,1991,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,d74a54d1
+329,Marko Milovanović,rs SRB,FW,Alverca,21,2003,31,18,1529,17.0,9,2,11,6,3,3,3,0,0.53,0.12,0.65,0.35,0.47,Matches,1fda2b14
+330,André Miranda,pt POR,FW,Porto,17,2007,1,0,7,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,faf49b2a
+331,Miro,ao ANG,FW,Tondela,22,2003,4,4,279,3.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,37df21dd
+332,Cezary Miszta,pl POL,GK,Rio Ave,23,2001,21,21,1890,21.0,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches,b9139383
+333,Matija Mitrovic,rs SRB,MF,Vit. Guimarães,20,2004,18,6,711,7.9,2,0,2,2,0,0,2,0,0.25,0.00,0.25,0.25,0.25,Matches,46eeb1bb
+334,Terem Moffi,ng NGA,FW,Porto,26,1999,9,1,248,2.8,1,1,2,1,0,0,2,0,0.36,0.36,0.73,0.36,0.73,Matches,065dc209
+335,Iyad Mohamed,km COM,MF,Casa Pia,24,2001,22,9,952,10.6,1,0,1,1,0,0,5,0,0.09,0.00,0.09,0.09,0.09,Matches,04ccaee7
+336,João Moisés,ao ANG,FWMF,Estrela,19,2006,8,4,283,3.1,0,1,1,0,0,0,2,0,0.00,0.32,0.32,0.00,0.32,Matches,9b5a81cb
+337,Guillem Molina,es ESP,DF,AVS Futebol,25,2000,7,3,328,3.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0bbab654
+338,Diogo Monteiro,pt POR,DF,Arouca,20,2005,8,3,298,3.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,17850779
+339,Kevyn Monteiro,br BRA,DF,Moreirense,19,2005,10,3,362,4.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,c90b8d33
+340,Rodrigo Mora,pt POR,MF,Porto,18,2007,28,14,1181,13.1,1,1,2,1,0,0,1,0,0.08,0.08,0.15,0.08,0.15,Matches,fc94b80c
+341,Agustín Moreira,uy URU,MF,Gil Vicente FC,24,2001,21,11,1028,11.4,2,1,3,2,0,0,3,0,0.18,0.09,0.26,0.18,0.26,Matches,008c0c46
+342,Gonçalo Moreira,pt POR,FW,Benfica,19,2006,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,70c9e842
+343,Paulo Moreira,pt POR,MF,Estrela,25,2000,29,27,2373,26.4,3,2,5,3,0,0,7,1,0.11,0.08,0.19,0.11,0.19,Matches,db4c8df7
+344,Vasco Moreira,pt POR,MF,Alverca,24,2001,16,3,441,4.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,5b78317d
+345,Hidemasa Morita,jp JPN,MF,Sporting CP,30,1995,31,23,1825,20.3,1,4,5,1,0,0,3,0,0.05,0.20,0.25,0.05,0.25,Matches,a650c75b
+346,Gabriel Moscardo,br BRA,DFMF,Braga,19,2005,23,8,953,10.6,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,709d3f52
+347,Moura,pt POR,DF,Porto,25,1999,21,16,1315,14.6,2,2,4,2,0,0,5,0,0.14,0.14,0.27,0.14,0.27,Matches,d51d1d9d
+348,Tom Moustier,se SWE,MF,Estrela,23,2002,10,2,249,2.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,81f7f06e
+349,João Moutinho,pt POR,MF,Braga,38,1986,31,27,2182,24.2,1,1,2,0,1,1,6,0,0.04,0.04,0.08,0.00,0.04,Matches,f5a00fa4
+350,MT,br BRA,DF,Santa Clara,24,2001,12,7,752,8.4,1,0,1,1,0,0,2,0,0.12,0.00,0.12,0.12,0.12,Matches,2ad9cabf
+351,Jonathan Mutombo,fr FRA,DF,Gil Vicente FC,22,2002,3,1,120,1.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0a7f5683
+352,Dylan Nandín,uy URU,FW,Arouca,23,2002,21,10,923,10.3,1,2,3,1,0,0,2,1,0.10,0.20,0.29,0.10,0.29,Matches,bc06b90d
+353,Fran Navarro,es ESP,FW,Braga,27,1998,29,14,1277,14.2,6,1,7,6,0,0,2,0,0.42,0.07,0.49,0.42,0.49,Matches,02a5618e
+354,Kaiky Naves,br BRA,DF,Alverca,23,2002,32,32,2833,31.5,2,0,2,2,0,0,9,1,0.06,0.00,0.06,0.06,0.06,Matches,621576f9
+355,Alioune Ndoye,sn SEN,FW,Vit. Guimarães,23,2001,24,7,964,10.7,2,1,3,2,0,0,2,0,0.19,0.09,0.28,0.19,0.28,Matches,e55e2633
+356,Christian Neiva Afonso,pt POR,DFMF,AVS Futebol,30,1994,27,17,1531,17.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,b3ec13e0
+357,Guilherme Neiva Silva,br BRA,MFFW,AVS Futebol,24,2001,24,9,931,10.3,2,3,5,2,0,0,2,0,0.19,0.29,0.48,0.19,0.48,Matches,ffddf45b
+358,Rafael Nel,pt POR,FW,Sporting CP,20,2005,7,2,175,1.9,2,1,3,2,0,0,0,0,1.03,0.51,1.54,1.03,1.54,Matches,e6679c22
+359,Nenê,br BRA,FW,AVS Futebol,42,1983,21,1,368,4.1,4,1,5,2,2,3,2,0,0.98,0.24,1.22,0.49,0.73,Matches,fbd40d07
+360,José Neto,pt POR,DF,Benfica,17,2008,2,1,95,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,ef553796
+361,Andre Neves,pt POR,MF,Estoril,21,2004,11,1,209,2.3,1,0,1,1,0,0,1,0,0.43,0.00,0.43,0.43,0.43,Matches,c0d68410
+362,Oumar Ngom,mr MTN,MF,Estrela,21,2004,11,9,832,9.2,0,1,1,0,0,0,5,1,0.00,0.11,0.11,0.00,0.11,Matches,2fd5aca2
+363,Renato Nhaga,gw GNB,MF,Casa Pia,18,2007,18,13,1166,13.0,2,0,2,2,0,0,4,0,0.15,0.00,0.15,0.15,0.15,Matches,e30ffc05
+364,Sikou Niakaté,ml MLI,DF,Braga,26,1999,11,11,936,10.4,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,8eef18aa
+365,Tamás Nikitscher,hu HUN,MF,Rio Ave,25,1999,27,15,1382,15.4,1,1,2,1,0,0,6,1,0.07,0.07,0.13,0.07,0.13,Matches,a1c7fe4e
+366,Miguel Nóbrega,pt POR,DF,Vit. Guimarães,25,2000,13,10,1001,11.1,1,0,1,1,0,0,1,0,0.09,0.00,0.09,0.09,0.09,Matches,9cc33204
+367,Gonçalo Nogueira,pt POR,MF,Vit. Guimarães,21,2003,23,15,1340,14.9,0,4,4,0,0,0,2,0,0.00,0.27,0.27,0.00,0.27,Matches,0256640c
+368,João Nogueira,pt POR,MFFW,Vit. Guimarães,20,2005,16,11,789,8.8,1,0,1,1,0,0,0,0,0.11,0.00,0.11,0.11,0.11,Matches,1e1a0196
+369,Jonatás Noro,pt POR,DF,Braga,20,2005,1,0,6,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,5187c3c2
+370,Mootez Nourani,tn TUN,MFFW,Nacional,23,2002,6,2,161,1.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,7be10378
+371,João Novais,pt POR,MF,Rio Ave,32,1993,2,0,46,0.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,282faa70
+372,Andreas Ntoi,gr GRE,MFDF,Rio Ave,22,2003,30,27,2340,26.0,1,2,3,1,0,0,9,0,0.04,0.08,0.12,0.04,0.12,Matches,56bcde74
+373,Hugo Nunes,pt POR,MF,Vit. Guimarães,23,2002,1,0,11,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,a3aea0cd
+374,Alan Núñez,py PAR,DF,Nacional,20,2004,21,18,1673,18.6,1,2,3,1,0,0,2,0,0.05,0.11,0.16,0.05,0.16,Matches,2145d0a1
+375,Cedric Nuozzi,be BEL,FWMF,Alverca,19,2006,25,10,878,9.8,1,0,1,1,0,0,0,0,0.10,0.00,0.10,0.10,0.10,Matches,9b079ea8
+376,Rafel Obrador,es ESP,DF,Benfica,21,2004,1,1,67,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,949c3655
+377,Lawrence Ofori,gh GHA,MF,Casa Pia,27,1998,12,7,615,6.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,643d81ad
+378,Lawrence Ofori,gh GHA,MF,Moreirense,27,1998,4,3,207,2.3,0,1,1,0,0,0,0,0,0.00,0.43,0.43,0.00,0.43,Matches,643d81ad
+379,Nélson Oliveira,pt POR,FW,Vit. Guimarães,33,1991,26,16,1310,14.6,3,0,3,3,0,1,3,1,0.21,0.00,0.21,0.21,0.21,Matches,f716e4e4
+380,Paulo Oliveira,pt POR,DF,Braga,33,1992,17,8,821,9.1,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,a8fbae1d
+381,Samu Omorodion,es ESP,FW,Porto,21,2004,20,19,1402,15.6,13,1,14,8,5,6,2,0,0.83,0.06,0.90,0.51,0.58,Matches,dc44b03c
+382,Ejike Opara,ng NGA,MF,Vit. Guimarães,20,2005,1,0,9,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,a3562060
+383,Jandro Orellana,es ESP,MF,Estoril,24,2000,19,17,1305,14.5,0,1,1,0,0,0,2,0,0.00,0.07,0.07,0.00,0.07,Matches,693e93f1
+384,Korede Osundina,us USA,FWMF,Casa Pia,21,2004,18,7,701,7.8,2,0,2,2,0,0,1,0,0.26,0.00,0.26,0.26,0.26,Matches,a869ba74
+385,Nicolás Otamendi,ar ARG,DF,Benfica,37,1988,30,30,2603,28.9,2,0,2,2,0,0,7,1,0.07,0.00,0.07,0.07,0.07,Matches,0d267745
+386,Otávio,br BRA,DF,Estrela,19,2005,22,17,1353,15.0,0,1,1,0,0,0,5,0,0.00,0.07,0.07,0.00,0.07,Matches,57d6f4d3
+387,Sie Ouattara,ci CIV,MFFW,Tondela,23,2002,16,7,558,6.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,060d8357
+388,Amine El Ouazzani,ma MAR,FW,Braga,24,2001,13,8,697,7.7,2,0,2,1,1,1,1,0,0.26,0.00,0.26,0.13,0.13,Matches,e5236aa9
+389,Yassin Oukili,nl NED,MF,Casa Pia,24,2001,8,6,459,5.1,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,c960bc58
+390,Pablo,br BRA,FW,Gil Vicente FC,21,2004,13,12,945,10.5,10,1,11,8,2,3,4,0,0.95,0.10,1.05,0.76,0.86,Matches,866ba412
+391,Pablo,br BRA,MFFW,Nacional,22,2003,23,8,864,9.6,0,0,0,0,0,0,4,1,0.00,0.00,0.00,0.00,0.00,Matches,d6b7f2b4
+392,Pedro Pacheco,pt POR,DF,Santa Clara,28,1997,3,2,188,2.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,039e97a5
+393,Gonçalo Paciência,pt POR,FW,Santa Clara,30,1994,12,6,499,5.5,3,0,3,3,0,0,3,0,0.54,0.00,0.54,0.54,0.54,Matches,962e54cb
+394,Jonathan Panzo,eng ENG,DF,Rio Ave,24,2000,14,13,1094,12.2,0,0,0,0,0,0,3,1,0.00,0.00,0.00,0.00,0.00,Matches,c795c408
+395,Antonios Papakanellos,gr GRE,MFFW,Rio Ave,19,2005,21,2,436,4.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,42492335
+396,Tiago Parente,pt POR,MF,Estoril,21,2004,14,4,494,5.5,1,0,1,1,0,0,3,0,0.18,0.00,0.18,0.18,0.18,Matches,f95de5ef
+397,Fode Pascoal,gw GNB,DF,Braga,20,2004,1,0,11,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,5a79f1e2
+398,Gonzalo Pastor,es ESP,MF,Famalicão,19,2006,2,0,37,0.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,a1935e34
+399,Luan Patrick,br BRA,DF,Estrela,23,2002,31,30,2683,29.8,0,0,0,0,0,0,4,1,0.00,0.00,0.00,0.00,0.00,Matches,dd5d1c85
+400,Patrick de Paula,br BRA,MF,Estoril,25,1999,9,3,409,4.5,1,0,1,1,0,0,4,0,0.22,0.00,0.22,0.22,0.22,Matches,9f12fbb7
+401,Vangelis Pavlidis,gr GRE,FW,Benfica,26,1998,33,30,2657,29.5,22,4,26,12,10,11,3,0,0.75,0.14,0.88,0.41,0.54,Matches,d578db11
+402,Zé Pedro Figueiredo,pt POR,DF,Porto,28,1997,2,0,30,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2063e21d
+403,Jordan Pefok,us USA,FW,Tondela,29,1996,22,14,1240,13.8,1,0,1,1,0,1,4,0,0.07,0.00,0.07,0.07,0.07,Matches,b684a484
+404,Marcos Peña,es ESP,MF,Famalicão,20,2005,16,3,364,4.0,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,736c14ec
+405,Pepê,br BRA,FW,Porto,28,1997,30,30,2220,24.7,3,4,7,3,0,0,2,0,0.12,0.16,0.28,0.12,0.28,Matches,fc4e7637
+406,Óscar Perea,co COL,MFFW,AVS Futebol,19,2005,25,14,1254,13.9,2,0,2,2,0,0,0,0,0.14,0.00,0.14,0.14,0.14,Matches,57bc72ea
+407,Matheus Pereira,br BRA,FWMF,Santa Clara,24,2000,10,8,720,8.0,0,1,1,0,0,0,2,0,0.00,0.12,0.12,0.00,0.12,Matches,ac903694
+408,Nehuén Pérez,ar ARG,DF,Porto,25,2000,6,4,374,4.2,1,0,1,1,0,0,0,0,0.24,0.00,0.24,0.24,0.24,Matches,f7c491f1
+409,Sebastián Pérez,co COL,MF,Casa Pia,32,1993,27,18,1567,17.4,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches,42a833ab
+410,Francisco Petrasso,ar ARG,DF,Rio Ave,23,2002,23,18,1440,16.0,0,0,0,0,0,0,7,1,0.00,0.00,0.00,0.00,0.00,Matches,c6a9b5eb
+411,Oskar Pietuszewski,pl POL,FW,Porto,17,2008,16,11,815,9.1,3,2,5,3,0,0,2,0,0.33,0.22,0.55,0.33,0.55,Matches,92312d0d
+412,Rodrigo Pinheiro,pt POR,DF,Famalicão,22,2002,29,29,2570,28.6,3,2,5,3,0,0,5,0,0.11,0.07,0.18,0.11,0.18,Matches,95cfdf36
+413,Rodrigo Pinho,br BRA,FW,Estrela,34,1991,29,12,1190,13.2,4,1,5,3,1,1,5,0,0.30,0.08,0.38,0.23,0.30,Matches,5db20508
+414,Alexandre Pinto,pt POR,DFMF,Arouca,27,1998,7,5,336,3.7,0,0,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00,Matches,b05d8d93
+415,Dinis Pinto,pt POR,DF,Moreirense,24,2000,23,23,2008,22.3,1,6,7,1,0,0,8,0,0.04,0.27,0.31,0.04,0.31,Matches,a968014d
+416,Luis Pinto,pt POR,MF,Braga,18,2006,3,2,214,2.4,0,1,1,0,0,0,1,0,0.00,0.42,0.42,0.00,0.42,Matches,7e153cab
+417,Mateus Pivô,br BRA,DF,AVS Futebol,27,1997,14,14,1146,12.7,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,8cae8894
+418,Pizzi,pt POR,MFFW,Estoril,35,1989,23,5,660,7.3,0,5,5,0,0,0,0,0,0.00,0.68,0.68,0.00,0.68,Matches,96094cbc
+419,Ole Pohlmann,de GER,FWMF,Rio Ave,24,2001,31,20,1722,19.1,1,1,2,1,0,0,2,0,0.05,0.05,0.10,0.05,0.10,Matches,822b83e8
+420,Carlos Ponck,cv CPV,DFMF,AVS Futebol,30,1995,16,9,927,10.3,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,b1579026
+421,Boris Popović,rs SRB,DF,Arouca,25,2000,17,13,1158,12.9,1,0,1,1,0,0,3,0,0.08,0.00,0.08,0.08,0.08,Matches,8f3b1b5d
+422,Gianluca Prestianni,ar ARG,MF,Benfica,19,2006,29,17,1540,17.1,3,5,8,3,0,0,8,1,0.18,0.29,0.47,0.18,0.47,Matches,d203fb17
+423,Kevin Prieto,uy URU,MF,Casa Pia,22,2003,11,3,346,3.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,ad32c507
+424,Diogo Prioste,pt POR,MF,Benfica,21,2004,2,0,24,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,840ceefa
+425,Dominik Prpić,hr CRO,DF,Porto,21,2004,6,1,183,2.0,0,0,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00,Matches,2aa62084
+426,Miguel Puche García,es ESP,MF,Arouca,24,2001,27,5,729,8.1,1,1,2,1,0,0,4,0,0.12,0.12,0.25,0.12,0.25,Matches,3d1f1458
+427,Eduardo Quaresma,pt POR,DF,Sporting CP,23,2002,16,13,1187,13.2,2,2,4,2,0,0,2,0,0.15,0.15,0.30,0.15,0.30,Matches,7ec723b7
+428,Geovany Quenda,pt POR,MF,Sporting CP,18,2007,20,7,884,9.8,2,5,7,2,0,0,0,0,0.20,0.51,0.71,0.20,0.71,Matches,19f53b56
+429,Jesús Ramírez,ve VEN,FW,Nacional,27,1998,33,33,2883,32.0,18,0,18,12,6,7,6,0,0.56,0.00,0.56,0.37,0.37,Matches,89d1f3ba
+430,Cláudio Ramos,pt POR,GK,Porto,33,1991,2,1,135,1.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,23505094
+431,Leonardo Realpe,ec ECU,DF,Famalicão,24,2001,24,19,1701,18.9,1,1,2,1,0,0,4,1,0.05,0.05,0.11,0.05,0.11,Matches,57701cbd
+432,João Rêgo,pt POR,MF,Benfica,20,2005,8,0,65,0.7,1,0,1,1,0,0,0,0,1.38,0.00,1.38,1.38,1.38,Matches,24c4694a
+433,Rodrigo Rego,pt POR,MF,Benfica,20,2005,3,1,112,1.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,4a04b70b
+434,Francisco Reis Ferreira,pt POR,DF,Estoril,28,1997,27,17,1635,18.2,2,0,2,2,0,0,4,0,0.11,0.00,0.11,0.11,0.11,Matches,4b3c863f
+435,Matheus Reis,br BRA,DF,Sporting CP,30,1995,9,3,359,4.0,0,2,2,0,0,0,0,1,0.00,0.50,0.50,0.00,0.50,Matches,ae1159bf
+436,João Resende,pt POR,FW,Estrela,22,2003,2,0,10,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,52244a96
+437,Rhaldney,br BRA,MF,Alverca,26,1998,14,12,987,11.0,1,0,1,1,0,0,4,0,0.09,0.00,0.09,0.09,0.09,Matches,ae3ef77f
+438,Renan Ribeiro,br BRA,GK,Estrela,35,1990,33,33,2970,33.0,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches,22db7a5e
+439,Omar Richards,eng ENG,MFDF,Rio Ave,27,1998,14,8,703,7.8,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,f9b1b7bf
+440,Richard Ríos,co COL,MF,Benfica,25,2000,27,26,2276,25.3,5,4,9,5,0,0,9,0,0.20,0.16,0.36,0.20,0.36,Matches,72da065d
+441,Daniel Rivas,py PAR,DF,AVS Futebol,23,2001,26,17,1526,17.0,0,1,1,0,0,0,6,0,0.00,0.06,0.06,0.00,0.06,Matches,851412f9
+442,Óscar Rivas,es ESP,DF,Vit. Guimarães,25,2000,18,18,1620,18.0,1,0,1,1,0,0,1,0,0.06,0.00,0.06,0.06,0.06,Matches,d0ef8835
+443,Robinho,br BRA,MFFW,Estrela,22,2002,23,9,941,10.5,0,1,1,0,0,0,5,0,0.00,0.10,0.10,0.00,0.10,Matches,92063712
+444,Joel Robles,es ESP,GK,Estoril,35,1990,31,31,2790,31.0,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,cda0b317
+445,Kaique Rocha,br BRA,DF,Casa Pia,24,2001,6,6,492,5.5,1,0,1,1,0,0,0,0,0.18,0.00,0.18,0.18,0.18,Matches,b31d385e
+446,Luís Rocha,pt POR,DF,Santa Clara,38,1986,13,13,1170,13.0,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches,2ba08f4e
+447,Matías Rocha,uy URU,DF,Arouca,24,2001,11,9,842,9.4,0,0,0,0,0,0,4,1,0.00,0.00,0.00,0.00,0.00,Matches,62c5ba1b
+448,Ricardo Rocha,pt POR,MF,Vit. Guimarães,21,2003,2,1,85,0.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,357991e8
+449,Rochinha,pt POR,FWMF,Famalicão,30,1995,1,0,4,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,c738a5ec
+450,Rodri,es ESP,MFFW,Moreirense,22,2003,26,17,1492,16.6,3,3,6,3,0,0,6,0,0.18,0.18,0.36,0.18,0.36,Matches,5d048362
+451,Afonso Rodrigues,pt POR,FW,Tondela,22,2002,7,0,123,1.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,f6d99a01
+452,Diego Rodrigues,pt POR,MF,Braga,20,2005,20,8,855,9.5,1,2,3,1,0,0,2,0,0.11,0.21,0.32,0.11,0.32,Matches,0b6c3214
+453,Rodrigo Rodrigues,pt POR,FW,Gil Vicente FC,17,2007,4,0,36,0.4,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,20b9950f
+454,Juan Rodríguez,ec ECU,MF,Tondela,19,2006,29,22,1977,22.0,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,ff603821
+455,Yefrei Rodríguez,co COL,FW,Tondela,20,2005,14,1,417,4.6,1,0,1,1,0,0,1,0,0.22,0.00,0.22,0.22,0.22,Matches,203e8082
+456,Guilherme Romão,br BRA,DF,Santa Clara,27,1997,12,10,890,9.9,0,1,1,0,0,0,0,0,0.00,0.10,0.10,0.00,0.10,Matches,2a618ce2
+457,Rômulo,br BRA,DF,Sporting CP,21,2004,1,0,7,0.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,a5dedc6e
+458,Budiga Roni,br BRA,MF,AVS Futebol,26,1999,16,16,1312,14.6,2,0,2,2,0,0,3,0,0.14,0.00,0.14,0.14,0.14,Matches,af433614
+459,Pablo Rosario,do DOM,MFDF,Porto,28,1997,22,12,1371,15.2,2,1,3,2,0,0,6,0,0.13,0.07,0.20,0.13,0.20,Matches,1a6b7ea4
+460,Pedro Rosas,pt POR,MF,Casa Pia,24,2000,9,7,634,7.0,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,e5b285b4
+461,Gustavo sá,pt POR,MF,Famalicão,20,2004,32,32,2697,30.0,4,2,6,4,0,0,7,0,0.13,0.07,0.20,0.13,0.20,Matches,29d68ea8
+462,Tiago Sá,pt POR,GK,Braga,30,1995,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,fd834d1d
+463,Borja Sainz,es ESP,FW,Porto,24,2001,30,18,1603,17.8,5,3,8,5,0,0,5,0,0.28,0.17,0.45,0.28,0.45,Matches,1b40049a
+464,Kelian Nsona Wa Saka,fr FRA,MFFW,Casa Pia,23,2002,10,6,478,5.3,1,1,2,1,0,0,0,0,0.19,0.19,0.38,0.19,0.38,Matches,33dce5c3
+465,Samu,pt POR,MF,Vit. Guimarães,29,1996,29,24,2027,22.5,7,3,10,5,2,3,4,0,0.31,0.13,0.44,0.22,0.36,Matches,29b161e8
+466,Javi Sánchez,es ESP,DF,Arouca,28,1997,15,15,1225,13.6,0,1,1,0,0,0,6,0,0.00,0.07,0.07,0.00,0.07,Matches,60359288
+467,Ricard Sánchez,es ESP,DFMF,Estoril,25,2000,26,25,1969,21.9,2,4,6,2,0,0,9,0,0.09,0.18,0.27,0.09,0.27,Matches,fce521d7
+468,Yellu Santiago,es ESP,MF,Arouca,21,2004,5,0,27,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,bc49fd34
+469,Aderlan Santos,br BRA,DF,AVS Futebol,36,1989,17,12,1033,11.5,1,0,1,1,0,0,2,0,0.09,0.00,0.09,0.09,0.09,Matches,847e4cd8
+470,Alisson Santos,br BRA,MF,Sporting CP,22,2002,18,0,197,2.2,0,2,2,0,0,0,0,0,0.00,0.91,0.91,0.00,0.91,Matches,c67e9194
+471,Hevertton Santos,br BRA,DF,Gil Vicente FC,24,2001,24,8,876,9.7,0,1,1,0,0,0,4,1,0.00,0.10,0.10,0.00,0.10,Matches,37b15b11
+472,Leandro Santos,pt POR,DF,Moreirense,19,2005,9,2,265,2.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,6ef8177e
+473,Léo Santos,br BRA,DF,Nacional,26,1998,31,30,2717,30.2,3,2,5,3,0,0,12,0,0.10,0.07,0.17,0.10,0.17,Matches,fa5f51c8
+474,Nuno Santos,pt POR,DF,Sporting CP,30,1995,4,1,59,0.7,0,1,1,0,0,0,0,0,0.00,1.53,1.53,0.00,1.53,Matches,a6ee4f55
+475,Nuno Santos,pt POR,FW,Vit. Guimarães,26,1999,5,3,222,2.5,0,1,1,0,0,0,0,0,0.00,0.41,0.41,0.00,0.41,Matches,6fc57554
+476,Pedro Santos,pt POR,MF,Arouca,24,2000,16,8,771,8.6,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,b30b0a0b
+477,Pedro Santos,pt POR,MF,Famalicão,22,2003,22,6,706,7.8,2,3,5,2,0,0,2,0,0.25,0.38,0.64,0.25,0.64,Matches,e65748d2
+478,Zaidu Sanusi,ng NGA,DF,Porto,28,1997,17,11,996,11.1,1,1,2,1,0,0,2,0,0.09,0.09,0.18,0.09,0.18,Matches,24051310
+479,Noah Saviolo,pt POR,MF,Vit. Guimarães,21,2004,30,22,1957,21.7,2,4,6,2,0,0,2,0,0.09,0.18,0.28,0.09,0.28,Matches,6e881861
+480,Bernardo Schappo,br BRA,DF,Estrela,26,1999,26,24,2053,22.8,0,0,0,0,0,0,6,0,0.00,0.00,0.00,0.00,0.00,Matches,eeff4ab4
+481,Guilherme Schettine,br BRA,FW,Moreirense,29,1995,15,14,984,10.9,9,1,10,9,0,0,1,0,0.82,0.09,0.91,0.82,0.91,Matches,6b074beb
+482,Andreas Schjelderup,no NOR,MF,Benfica,21,2004,28,20,1723,19.1,7,5,12,5,2,2,2,0,0.37,0.26,0.63,0.26,0.52,Matches,a427724f
+483,Max Scholze,de GER,DF,Estrela,20,2005,11,8,729,8.1,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,2cddbf88
+484,Caio Secco,br BRA,GK,Moreirense,34,1990,11,11,990,11.0,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,0467df63
+485,Luis Semedo,pt POR,FW,Moreirense,21,2003,21,8,999,11.1,3,0,3,3,0,0,0,0,0.27,0.00,0.27,0.27,0.27,Matches,95a98690
+486,Rúben Semedo,pt POR,DF,AVS Futebol,31,1994,9,9,776,8.6,0,0,0,0,0,0,3,1,0.00,0.00,0.00,0.00,0.00,Matches,c904f3d5
+487,Hugo Sequeira,pt POR,MFFW,Tondela,21,2004,26,13,1336,14.8,0,1,1,0,0,1,2,0,0.00,0.07,0.07,0.00,0.07,Matches,8a32b21f
+488,Patrick Sequeira,cr CRC,GK,Casa Pia,26,1999,29,29,2526,28.1,0,0,0,0,0,0,3,1,0.00,0.00,0.00,0.00,0.00,Matches,6f21e773
+489,Serginho,pt POR,MF,Santa Clara,25,1999,32,31,2567,28.5,4,3,7,0,4,4,9,0,0.14,0.11,0.25,0.00,0.11,Matches,53825020
+490,Guilherme Serrão,pt POR,MFDF,Estrela,21,2003,11,4,528,5.9,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,05c43608
+491,Xander Severina,cw CUW,FWMF,Casa Pia,24,2001,5,0,103,1.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,c42f4312
+492,Sidney,br BRA,DF,Santa Clara,28,1997,33,33,2930,32.6,1,0,1,1,0,0,9,1,0.03,0.00,0.03,0.03,0.03,Matches,5350c0dc
+493,António Silva,pt POR,DF,Benfica,21,2003,25,20,1862,20.7,1,1,2,1,0,0,6,0,0.05,0.05,0.10,0.05,0.10,Matches,8f0435c7
+494,Gustavo da Silva,br BRA,FWMF,Vit. Guimarães,26,1999,23,18,1459,16.2,5,2,7,5,0,0,3,0,0.31,0.12,0.43,0.31,0.43,Matches,57b28984
+495,Henrique Silva,br BRA,DF,Santa Clara,19,2005,13,12,1028,11.4,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches,f781c00a
+496,João Silva,pt POR,DF,Tondela,26,1999,12,11,996,11.1,1,0,1,1,0,0,1,0,0.09,0.00,0.09,0.09,0.09,Matches,3990d93a
+497,Joel silva,pt POR,MF,Nacional,22,2003,18,4,392,4.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,6deb1eab
+498,José Silva,pt POR,DF,Arouca,19,2005,4,0,38,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,5c1c6bcf
+499,Miguel Silva,pt POR,MF,Moreirense,17,2007,1,0,4,0.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,6e895b9d
+500,Eric da Silva Moreira,de GER,DF,Rio Ave,19,2006,3,0,73,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0a4f579a
+501,Rafa Silva,pt POR,MF,Benfica,32,1993,16,11,917,10.2,5,0,5,5,0,0,0,0,0.49,0.00,0.49,0.49,0.49,Matches,70cf63ca
+502,Rodrigo Silva,pt POR,FW,Braga,20,2004,1,0,5,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,4b5bc813
+503,Rui Silva,pt POR,GK,Sporting CP,31,1994,32,32,2880,32.0,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,ea83bfa6
+504,Thiago Silva,br BRA,DF,Porto,40,1984,8,6,577,6.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,86e7deaf
+505,Tiago Silva,pt POR,MF,Porto,18,2007,1,0,23,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,744690f7
+506,Tiago Silva,pt POR,MF,Vit. Guimarães,32,1993,4,3,287,3.2,1,0,1,0,1,1,3,0,0.31,0.00,0.31,0.00,0.00,Matches,44d0de01
+507,David Simão,pt POR,MF,Arouca,35,1990,12,8,658,7.3,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,fcef3903
+508,João Simões,pt POR,MF,Sporting CP,18,2007,18,9,756,8.4,0,1,1,0,0,0,3,0,0.00,0.12,0.12,0.00,0.12,Matches,9c6601c4
+509,Sphephelo Sithole,za RSA,MF,Tondela,26,1999,26,16,1543,17.1,1,0,1,1,0,0,6,0,0.06,0.00,0.06,0.06,0.06,Matches,33bcd4b3
+510,Filipe Soares,pt POR,MF,Nacional,26,1999,18,6,761,8.5,1,0,1,1,0,0,3,0,0.12,0.00,0.12,0.12,0.12,Matches,c6a3b58d
+511,Lucas Soares,br BRA,DFMF,Santa Clara,27,1998,28,25,2073,23.0,0,0,0,0,0,0,6,1,0.00,0.00,0.00,0.00,0.00,Matches,bc38978e
+512,Rafa Soares,pt POR,DF,Famalicão,30,1995,24,20,1709,19.0,1,3,4,1,0,0,4,0,0.05,0.16,0.21,0.05,0.21,Matches,062fc2e6
+513,Samuel Soares,pt POR,GK,Benfica,23,2002,2,2,180,2.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,244ff834
+514,Alex Sola,ao ANG,MFFW,Estrela,21,2003,16,10,705,7.8,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,8658cb7c
+515,Arnau Solà,es ESP,DF,Arouca,22,2003,10,7,588,6.5,0,1,1,0,0,0,1,0,0.00,0.15,0.15,0.00,0.15,Matches,c8c8ce16
+516,André Sousa,pt POR,MF,Nacional,35,1990,12,1,129,1.4,0,2,2,0,0,0,1,0,0.00,1.40,1.40,0.00,1.40,Matches,0f7d5ec6
+517,David Sousa,br BRA,DF,Casa Pia,24,2001,26,25,2264,25.2,2,0,2,2,0,0,13,0,0.08,0.00,0.08,0.08,0.08,Matches,d588a2bd
+518,Miguel Sousa,pt POR,FWMF,Casa Pia,26,1998,12,3,329,3.7,0,2,2,0,0,0,3,0,0.00,0.55,0.55,0.00,0.55,Matches,ee784cc2
+519,Vasco Sousa,pt POR,MF,Moreirense,22,2003,9,6,460,5.1,1,0,1,1,0,0,2,1,0.20,0.00,0.20,0.20,0.20,Matches,fe55eba7
+520,Fabiano Souza,br BRA,DF,Moreirense,25,2000,7,6,499,5.5,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,f5e7fdf9
+521,Diogo Spencer,pt POR,MF,Alverca,21,2004,7,3,233,2.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,eb901957
+522,Diogo Spencer,pt POR,MFDF,AVS Futebol,21,2004,13,12,1004,11.2,1,2,3,1,0,0,2,0,0.09,0.18,0.27,0.09,0.27,Matches,eb901957
+523,Dario Špikić,hr CRO,MFFW,Rio Ave,26,1999,30,24,1781,19.8,2,3,5,2,0,0,1,0,0.10,0.15,0.25,0.10,0.25,Matches,688fcea2
+524,Mateja Stjepanović,rs SRB,MF,Moreirense,21,2004,32,29,2410,26.8,1,0,1,1,0,0,6,0,0.04,0.00,0.04,0.04,0.04,Matches,3c830734
+525,Ianis Stoica,ro ROU,MFFW,Estrela,22,2002,33,20,1670,18.6,3,2,5,2,1,1,4,0,0.16,0.11,0.27,0.11,0.22,Matches,704bf164
+526,Tony Strata,ro ROU,DF,Vit. Guimarães,20,2004,21,14,1407,15.6,1,1,2,1,0,0,3,0,0.06,0.06,0.13,0.06,0.13,Matches,4ca4f263
+527,Luis Suárez,co COL,FW,Sporting CP,27,1997,32,31,2688,29.9,28,6,34,24,4,6,7,0,0.94,0.20,1.14,0.80,1.00,Matches,eeba07f8
+528,Heorhiy Sudakov,ua UKR,MF,Benfica,22,2002,22,17,1411,15.7,4,1,5,4,0,0,2,0,0.26,0.06,0.32,0.26,0.32,Matches,a793f5a8
+529,Max Svensson,es ESP,FW,Casa Pia,23,2001,6,1,179,2.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,cf603737
+530,Tamble,gw GNB,FW,Rio Ave,24,2000,13,7,668,7.4,0,1,1,0,0,0,2,0,0.00,0.13,0.13,0.00,0.13,Matches,20a0c796
+531,Hélder Tavares,cv CPV,MF,Tondela,35,1989,20,6,596,6.6,0,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches,b293f3e4
+532,José Tavares,,MF,Santa Clara,22,2003,25,8,964,10.7,0,1,1,0,0,0,8,0,0.00,0.09,0.09,0.00,0.09,Matches,0e418357
+533,Duplexe Tchamba,cm CMR,DF,Casa Pia,27,1998,5,5,415,4.6,1,0,1,1,0,0,2,0,0.22,0.00,0.22,0.22,0.22,Matches,75926036
+534,Cédric Teguia,es ESP,MFFW,Moreirense,23,2001,21,9,855,9.5,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,83fd9572
+535,Tomané,pt POR,FW,AVS Futebol,32,1992,29,24,2011,22.3,4,1,5,4,0,0,5,0,0.18,0.04,0.22,0.18,0.22,Matches,c2604e3c
+536,João Tomé,pt POR,MFDF,Rio Ave,22,2003,19,6,673,7.5,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,d09208bb
+537,Welinton Torrão,br BRA,MFFW,Santa Clara,26,1999,18,7,673,7.5,1,2,3,1,0,0,1,0,0.13,0.27,0.40,0.13,0.40,Matches,3674f5b8
+538,Nabil Touaizi,ma MAR,MF,Alverca,24,2001,33,31,2818,31.3,1,5,6,0,1,1,7,0,0.03,0.16,0.19,0.00,0.16,Matches,e96b2583
+539,Diogo Travassos,pt POR,MFFW,Moreirense,21,2004,29,27,2431,27.0,5,3,8,5,0,0,2,0,0.19,0.11,0.30,0.19,0.30,Matches,6c65e573
+540,Alfonso Trezza,uy URU,MF,Arouca,26,1999,32,27,2317,25.7,9,2,11,9,0,0,2,1,0.35,0.08,0.43,0.35,0.43,Matches,e1000218
+541,Pedro Trigueira,pt POR,GK,AVS Futebol,37,1988,1,0,8,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,00d19548
+542,Francisco Trincão,pt POR,MF,Sporting CP,25,1999,34,32,2847,31.6,7,11,18,7,0,0,1,0,0.22,0.35,0.57,0.22,0.57,Matches,77e39b04
+543,Anatolii Trubin,ua UKR,GK,Benfica,23,2001,32,32,2880,32.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,41f0b196
+544,Antef Tsoungui,be BEL,DFMF,Estoril,22,2002,23,15,1375,15.3,0,0,0,0,0,0,8,0,0.00,0.00,0.00,0.00,0.00,Matches,a3b39084
+545,Martin Turk,si SVN,GK,Estoril,21,2003,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,14ae023f
+546,Ulisses,br BRA,DF,Nacional,25,1999,5,3,224,2.5,0,0,0,0,0,0,4,1,0.00,0.00,0.00,0.00,0.00,Matches,a0b9e0cb
+547,Georgios Vagiannidis,gr GRE,DF,Sporting CP,23,2001,22,11,1283,14.3,0,4,4,0,0,0,4,0,0.00,0.28,0.28,0.00,0.28,Matches,12ba7959
+548,João Valido,pt POR,GK,Arouca,25,2000,9,9,810,9.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,beb1317c
+549,Lenny Vallier,fr FRA,DF,Nacional,26,1999,14,8,755,8.4,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches,0a696365
+550,Alan Varela,ar ARG,MF,Porto,24,2001,30,27,2317,25.7,2,0,2,1,1,2,8,0,0.08,0.00,0.08,0.04,0.04,Matches,9ffb2ce6
+551,Gustavo Varela,pt POR,FW,Gil Vicente FC,20,2005,32,15,1524,16.9,6,3,9,6,0,1,3,0,0.35,0.18,0.53,0.35,0.53,Matches,d46ec7b4
+552,Nilton Varela,pt POR,MF,Estrela,24,2001,1,1,57,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,c5c22733
+553,João Vasconcelos,pt POR,MF,Braga,20,2005,1,0,43,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,36b9ac56
+554,Gabriel Veiga,es ESP,MF,Porto,23,2002,31,20,1615,17.9,3,8,11,3,0,0,6,0,0.17,0.45,0.61,0.17,0.61,Matches,35a6e5c7
+555,João Veloso,pt POR,MF,Benfica,20,2005,2,0,2,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,351a04b5
+556,Frederico Venâncio,pt POR,DF,Santa Clara,32,1993,22,20,1732,19.2,1,1,2,1,0,0,6,0,0.05,0.05,0.10,0.05,0.10,Matches,0adc7748
+557,Gabriel Veron,br BRA,FWMF,Nacional,22,2002,13,11,822,9.1,1,0,1,1,0,0,2,0,0.11,0.00,0.11,0.11,0.11,Matches,6bc49da7
+558,Pau Victor,es ESP,FWMF,Braga,23,2001,32,27,2259,25.1,10,4,14,9,1,1,5,0,0.40,0.16,0.56,0.36,0.52,Matches,e6e7c819
+559,Paulo Victor,br BRA,DFMF,Santa Clara,24,2001,21,16,1352,15.0,1,0,1,1,0,0,3,1,0.07,0.00,0.07,0.07,0.07,Matches,cc54abe5
+560,Sandro Vidigal,pt POR,MF,Braga,18,2007,4,0,54,0.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0333c45e
+561,Gabriel Vieira,br BRA,FWMF,Santa Clara,23,2002,29,26,2235,24.8,6,0,6,5,1,1,4,0,0.24,0.00,0.24,0.20,0.20,Matches,63904ba9
+562,Jakub Vinarcik,sk SVK,GK,Arouca,20,2005,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,00191888
+563,Marcos Vinicios Sorriso,br BRA,MFFW,Famalicão,24,2001,33,33,2784,30.9,5,4,9,5,0,0,7,0,0.16,0.13,0.29,0.16,0.29,Matches,e816a8ee
+564,Vinícius,br BRA,FWMF,Santa Clara,26,1999,28,17,1538,17.1,6,1,7,6,0,0,8,0,0.35,0.06,0.41,0.35,0.41,Matches,ecce7383
+565,João Virgínia,pt POR,GK,Sporting CP,25,1999,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,728e9b2e
+566,Rémy Vita,km COM,DF,Tondela,24,2001,4,2,227,2.5,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,438c6082
+567,Paulo Vitor,br BRA,DF,AVS Futebol,24,2001,17,16,1419,15.8,0,0,0,0,0,0,4,2,0.00,0.00,0.00,0.00,0.00,Matches,e439f258
+568,Paulo Vitor,br BRA,DF,Vit. Guimarães,24,2001,1,0,5,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,e439f258
+569,Zé Vitor,br BRA,DF,Nacional,24,2001,30,30,2671,29.7,4,1,5,4,0,0,10,2,0.13,0.03,0.17,0.13,0.17,Matches,2008d453
+570,Marious Vrousai,gr GRE,MFDF,Rio Ave,27,1998,31,30,2521,28.0,1,2,3,1,0,0,5,1,0.04,0.07,0.11,0.04,0.11,Matches,d2795011
+571,Watts,pt POR,FW,Nacional,20,2005,7,0,58,0.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,ab48632c
+572,Wendel,br BRA,FW,Santa Clara,24,2000,13,11,908,10.1,1,2,3,0,1,1,2,0,0.10,0.20,0.30,0.00,0.20,Matches,44fd892e
+573,Weverson,br BRA,DF,Gil Vicente FC,25,2000,1,0,27,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,b9829bf7
+574,Witi,mz MOZ,FWMF,Nacional,28,1996,26,10,945,10.5,1,1,2,1,0,0,4,0,0.10,0.10,0.19,0.10,0.19,Matches,4c99c0da
+575,Xeka,pt POR,MF,Estoril,30,1994,12,8,652,7.2,1,0,1,1,0,0,1,0,0.14,0.00,0.14,0.14,0.14,Matches,f3600c02
+576,Yassir Zabiri,ma MAR,FW,Famalicão,20,2005,12,7,661,7.3,4,0,4,4,0,0,2,0,0.54,0.00,0.54,0.54,0.54,Matches,5b17d985
+577,Rodrigo Zalazar,uy URU,MFFW,Braga,25,1999,28,22,1940,21.6,16,5,21,6,10,10,6,0,0.74,0.23,0.97,0.28,0.51,Matches,fc3697dd
+578,Zeega,pt POR,MF,Vit. Guimarães,16,2008,2,0,42,0.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,f54d7367
+579,Karem Zoabi,il ISR,FW,Rio Ave,19,2006,5,1,96,1.1,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,fffaf441
