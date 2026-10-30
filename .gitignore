@@ -1,1 +1,3 @@
 data/appearances.csv
+__pycache__/
+*.pyc

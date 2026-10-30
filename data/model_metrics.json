@@ -1,0 +1,22 @@
+{
+  "n_pemain": 2506,
+  "n_folds": 5,
+  "r2_log": 0.7541611618877606,
+  "mae_eur": 4696308.858739026,
+  "median_ape": 0.4604166666666667,
+  "ambang_undervalued_pct": 61.091997592351355,
+  "fitur": [
+    "Age",
+    "Min",
+    "MP",
+    "Starts",
+    "Start_pct",
+    "Gls_p90",
+    "npG_p90",
+    "Ast_p90",
+    "CrdY_p90",
+    "PKatt",
+    "Asal_Liga",
+    "Pos_Utama"
+  ]
+}
